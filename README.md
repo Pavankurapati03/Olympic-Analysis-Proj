@@ -1,7 +1,7 @@
 # Olympics Data Analysis
 
 A Streamlit application for analyzing Olympics data, providing insights on medal tallies, athlete performances, and various other statistics.
-web app link : https://olympic-analysis-proj-new.streamlit.app/
+- web app link : https://olympic-analysis-proj-new.streamlit.app/
 
 ## Table of Contents
 - [Description](#description)
